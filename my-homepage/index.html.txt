@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <title>我的作业首页</title>
+    <style>
+        body {
+            background-color: #f0f8ff;
+            text-align: center;
+            padding-top: 100px;
+            font-family: 微软雅黑, sans-serif;
+        }
+        h1 { color: #2c3e50; }
+        p { color: #34495e; font-size: 18px; }
+    </style>
+</head>
+<body>
+    <h1>欢迎来到我的作业首页</h1>
+    <p>这是我制作的第一个网页，用于完成课程作业~</p >
+</body>
+</html>
